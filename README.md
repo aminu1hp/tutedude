@@ -1,6 +1,13 @@
-# Task 1 explains how to take input from user in numeric value and do math calculation
-Here I have taken the Input as variable assigned to "a" and "b" which converts the input value to integer value
+# Task 1: Basic Math Operations in Python
 
-Then the different variables doing the addition, subtraction, multiplication and division
+This program takes two numeric inputs from the user and performs basic arithmetic calculations: addition, subtraction, multiplication, and division.
 
-Then the result of the input is being printed here
+- The input values are stored in variables `a` and `b`, and are converted to integers.
+- The program calculates:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- Finally, it prints the results of these operations.
+
+
